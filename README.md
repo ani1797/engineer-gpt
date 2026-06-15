@@ -1,4 +1,6 @@
-# ML Engineer
+> **⏳ Time Capsule** — This project was built before modern AI agent harnesses (LangChain, AutoGen, MAF, etc.) existed in their current form. It represents an early, hand-rolled approach to prompt-driven code generation using raw Azure OpenAI completions. Kept as a reference point for how far the tooling has come.
+
+---# ML Engineer
 
 This project aims to simplify and or create code just by using natural language
 
